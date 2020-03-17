@@ -1,5 +1,5 @@
 # Default ignored files
 /workspace.xml
 
-__pycache__
-venv
+/__pycache__
+/venv
